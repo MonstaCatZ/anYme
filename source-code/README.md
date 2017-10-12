@@ -31,10 +31,10 @@ For the sake of consistency, here are some basic rules (these will be updated so
 * The name of every Activity should end with Activity
 * The name of every Fragment should start with Fragment
 * Prefer self-explaining variable names
-* Prefer functionality over unit tests. Crashes will be analyzed using CrashLytics.
+* Prefer functionality over unit tests. Crashes will be analyzed using CrashLytics. anYme currently has 99.8% users who have never experienced a crash
 * Don't use Dependency Injection
 * Avoid ternary operators. It's okay if your code is 2 lines instead of 1
-* Use String templates when you want to include variables
+* Use String templates when you want to include variables in a String
 * Always do null checks
 * Document your functions if they do not contain self-explaining variable names
 
