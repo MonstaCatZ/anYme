@@ -18,9 +18,9 @@ Good news, anYme is going Open Source and I need your help!
 
 * **Requirements:**
 	* Must have experience with Android (Java + Kotlin)
-	* Must have a GitHub account
-	* Must have made an app before
-	* Must have at least 1000XP in the Discord server (or the open-source 'role') in order to participate in the #open-source channel
+	* Must have a SVN account on https://riouxsvn.com/account/
+	* Must have made an Android app before
+	* Must have at the 'Open Source' role in order to participate in the #open-source channel
 	* Must have experience with the MAL API
 
 ## Code Consistency
