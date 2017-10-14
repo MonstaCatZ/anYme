@@ -8,6 +8,11 @@ Good news, anYme is going Open Source and I need your help!
 * The original code in Java is a mess and _very_ verbose
 * Faster development
 
+## Changes
+
+* No more browsers to visit streaming sites
+* Theming
+* A new user interface
 
 ## How can you help?
 
