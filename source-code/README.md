@@ -7,8 +7,6 @@ Good news, anYme is going Open Source and I need your help!
 * I want to make the switch to Kotlin, I like the syntax but there is still much I need to learn
 * The original code in Java is a mess and _very_ verbose
 * Faster development
-* Support for theming
-* Support for multiple languages
 
 
 ## How can you help?
@@ -23,20 +21,21 @@ Good news, anYme is going Open Source and I need your help!
 	* Must have at the 'Open Source' role in order to participate in the #open-source channel
 	* Must have experience with the MAL API
 
-## Code Consistency
+## Code/App Consistency
 
 For the sake of consistency, here are some basic rules (these will be updated soon)
 
-* Follow all Java/Kotlin code conventions
-* The name of every Activity should end with Activity
-* The name of every Fragment should start with Fragment
-* Prefer self-explaining variable names
-* Prefer functionality over unit tests. Crashes will be analyzed using CrashLytics. anYme currently has 99.8% users who have never experienced a crash
-* Don't use Dependency Injection
-* Avoid ternary operators. It's okay if your code is 2 lines instead of 1
-* Use String templates when you want to include variables in a String
-* Always do null checks
-* Document your functions if they do not contain self-explaining variable names
+* Follow all Java/Kotlin code conventions.
+* The name of every Activity should end with Activity.
+* The name of every Fragment should start with Fragment.
+* Prefer self-explaining variable names.
+* Prefer functionality over unit tests. Crashes will be analyzed using CrashLytics. anYme currently has 99.8% users who have never experienced a crash.
+* Don't use Dependency Injection.
+* Avoid ternary operators. It's okay if your code is 2 lines instead of 1.
+* Use String templates when you want to include variables in a String.
+* Always do null checks.
+* Document your functions if they do not contain self-explaining variable names.
+* The app should stay permissions free. You can't add permissions.
 
 ## Status
 
