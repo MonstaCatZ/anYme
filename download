@@ -3,7 +3,7 @@
    "link":"https://github.com/zunjae/anyme_download/releases/download/DownloadLink/anYme.apk",
    "adblock_version":"26",
    "browser_version":"6",
-   "nsfw_filter_version":"6",
+   "nsfw_filter_version":"7",
    "force_update":false,
    "changelog_url":"https://www.reddit.com/r/anYme/comments/73aabi/anyme_app_update_3938/",
    "short_description":"(hotfix) New features and bug/security fixes!"
