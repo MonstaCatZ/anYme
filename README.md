@@ -10,7 +10,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 # Features
 
 * Synchronize with MyAnimeList. **The app can detect how many episodes you have watched!**
-* Find [Similar Anime from shows](https://i.imgur.com/KYZLYeS.png)
+* Find Similar Anime from shows
 * Read information about an anime
      * This includes information like **score, rating, broadcast day, adaptions, sequels etc.**
 * Find which characters play in a show, who their Voice Actors are.
@@ -34,7 +34,7 @@ and more...
 * **The app requires no app permission**. So it can't look at your private files and send them to a server
 * You need at least Android 4.4
 * You can request new features on https://www.reddit.com/r/anYme
-* I'm working on a **rewrite** soon. If you're interested in helping please DM me and we can look into the source code together. Must have Java and Kotlin knowledge
+* I'm working on a **rewrite** soon. If you're interested in helping then join the discord server.
 * anYme uses **HTTPS** when connecting to MAL, tho when creating a MAL account, I recommend you use a password you do not use anywhere else. This is just a general advise for all sites
 
 ## Powered By:
