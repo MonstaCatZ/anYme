@@ -4,7 +4,7 @@
    "adblock_version":"30",
    "browser_version":"6",
    "nsfw_filter_version":"6",
-   "force_update":false,
+   "force_update":true,
    "changelog_url":"https://www.reddit.com/r/anYme/comments/7cgczj/anyme_app_update_3939/",
    "short_description":"New features and 9Anime fixed!"
 }
