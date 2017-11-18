@@ -23,7 +23,7 @@ App for Anime which can sync with MyAnimeList **[ FREE AND NO ADS! ]**
 * Look up pictures from your favorite show and **batch-download** them
 * Look up **theme songs** and listen to them
 * Find **discussions** about episodes on Reddit
-* Get [notified](https://github.com/zunjae/anyme_download/blob/master/instruction_get_notified.md) whenever a **new episode releases!** etc.
+* Get notified whenever a **new episode releases!**.
 
 
 and more...
@@ -34,7 +34,6 @@ and more...
 * **The app requires no app permission**. So it can't look at your private files and send them to a server
 * You need at least Android 4.4
 * You can request new features on https://www.reddit.com/r/anYme
-* I'm working on a **rewrite** soon. If you're interested in helping then join the discord server.
 * anYme uses **HTTPS** when connecting to MAL, tho when creating a MAL account, I recommend you use a password you do not use anywhere else. This is just a general advise for all sites
 
 ## Powered By:
